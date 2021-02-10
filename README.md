@@ -20,10 +20,11 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
+- [Flex-Box](https://www.w3schools.com/css/css3_flexbox.asp)
 
 ## Projeto
 
-Desenvolvendo o layout do Twitter com HTML5 e CSS3.
+Desenvolvendo o layout do Twitter com HTML5 e CSS3/Flex-Box.
 <br>
 
 ## Layout

@@ -3,7 +3,7 @@
 Developing a Twitter layout
 
 <h1 align="center">
-    <img alt="twitter" title="Twitter" src="./assets/img/twitter.webp" width="30%" />
+    <img alt="twitter" title="Twitter" src="./assets/img/twitter.png" width="30%" />
 </h1>
 
 <p align="center">
